@@ -9,7 +9,7 @@
       flex-dir="column"
       align="center"
       rounded="md"
-      bg="vue.400"
+      bg="cyan.400"
     >
       <CAvatar size="2xl" :src="summoner_icon" mx="auto"/>
       <CText fontSize="20pt" fontWeight="bolder" color="white">{{ summoner_name }}</CText>

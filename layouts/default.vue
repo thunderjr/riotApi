@@ -11,7 +11,7 @@
       >
         <CReset />
         <CFlex direction="row" justify="center" align="center">
-          <CText fontSize="18pt" color="whiteAlpha.900">💀 BOTLANE HORRÍVEL ❌</CText>
+          <CText fontSize="18pt" color="whiteAlpha.900">JG DIFF APENAS =/ ❌</CText>
           
           <CInput placeholder="Digite o nome do criminoso..." w="40%" ml="auto" v-model="nicknameModel" />            
          
