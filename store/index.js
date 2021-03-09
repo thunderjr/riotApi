@@ -1,5 +1,5 @@
 export const state = () => ({
-  API_KEY: 'RGAPI-7600cfd6-f2a5-4496-896d-65d41d58226d',
+  API_KEY: process.env.API_KEY,
   
   championsData: [],
   patch: '',
